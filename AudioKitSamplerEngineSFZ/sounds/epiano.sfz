@@ -1,0 +1,17 @@
+
+<group>
+lovel=0
+hivel=127
+
+<region> trigger=attack  pitch_keycenter=53 key=53 sample=epiano/f.wav
+<region> trigger=attack  pitch_keycenter=54 key=54 sample=epiano/fs.wav
+<region> trigger=attack  pitch_keycenter=55 key=55 sample=epiano/g.wav
+<region> trigger=attack  pitch_keycenter=56 key=56 sample=epiano/gs.wav
+<region> trigger=attack  pitch_keycenter=57 key=57 sample=epiano/a.wav
+<region> trigger=attack  pitch_keycenter=58 key=58 sample=epiano/as.wav
+<region> trigger=attack  pitch_keycenter=59 key=59 sample=epiano/b.wav
+<region> trigger=attack  pitch_keycenter=60 key=60 sample=epiano/c.wav
+<region> trigger=attack  pitch_keycenter=61 key=61 sample=epiano/cs.wav
+<region> trigger=attack  pitch_keycenter=62 key=62 sample=epiano/d.wav
+<region> trigger=attack  pitch_keycenter=63 key=63 sample=epiano/ds.wav
+<region> trigger=attack  pitch_keycenter=64 key=64 sample=epiano/e.wav
